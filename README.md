@@ -1,3 +1,4 @@
+URL: http://rich.qwq2x.com/work/four-square/
 
 -------------- 1016 -----------------
 1. Build a front-end UI framework using Svelte
@@ -8,3 +9,4 @@
 6. Camera flight and focusing in 3D rendering, object click triggering and response, creation of sky boxes and ambient light, loading of 3D models
 7. Use the canvas element to draw the pop-up window of the data panel
 8. Using postmessage for cross-domain/cross-window message transmission
+
