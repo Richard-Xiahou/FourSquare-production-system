@@ -1,4 +1,9 @@
+-------------- Description --------------
+This project utilized the then most popular front-end framework - Svelte, as well as the most powerful, beautiful, simple and open web rendering engine - Babylon.js. It communicated with the HTTP server via the HTTP protocol and used WebSocket to communicate with the MES system of the production equipment (such as the Modbus industrial communication protocol).
+
+
 URL: http://rich.qwq2x.com/work/four-square/
+
 
 -------------- 1016 -----------------
 1. Build a front-end UI framework using Svelte
