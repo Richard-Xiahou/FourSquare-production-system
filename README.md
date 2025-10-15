@@ -15,4 +15,5 @@ URL: http://rich.qwq2x.com/work/four-square/
 6. Camera flight and focusing in 3D rendering, object click triggering and response, creation of sky boxes and ambient light, loading of 3D models
 7. Use the canvas element to draw the pop-up window of the data panel
 8. Using postmessage for cross-domain/cross-window message transmission
+9. Used object-oriented programming and singleton pattern (such as AnimateToMesh)
 
