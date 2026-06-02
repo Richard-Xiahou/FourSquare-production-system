@@ -5,8 +5,64 @@ This project utilized the then most popular front-end framework - Svelte, as wel
 
 URL: http://rich.qwq2x.com/work/four-square/
 
+# FourSquare Production System
 
--------------- 1016 -----------------
+## Overview
+
+Industrial 3D visualization system for manufacturing equipment.
+
+Built with:
+
+- Svelte
+- Babylon.js
+- TypeScript
+- Vite
+- WebSocket
+
+## Key Features
+
+- Real-time equipment monitoring
+- 3D factory visualization
+- Camera navigation
+- Equipment status dashboard
+- MES integration
+- Modbus communication
+
+## Architecture
+
+[架构图]
+
+Browser
+ ↓
+WebSocket
+ ↓
+MES Server
+ ↓
+Industrial Equipment
+
+## Technologies
+
+- Svelte
+- Babylon.js
+- TypeScript
+- WebSocket
+- Axios
+- Modbus
+
+## Screenshots
+
+[图片]
+
+## My Responsibilities
+
+- Front-end architecture
+- 3D rendering
+- WebSocket communication
+- Data visualization
+- Performance optimization
+
+  
+## -------------- 1016 -----------------
 1. Build a front-end UI framework using Svelte
 2. Complete 3D graphics rendering using Babylon.js
 3. Use Vite as the build tool for the front-end project
@@ -18,5 +74,5 @@ URL: http://rich.qwq2x.com/work/four-square/
 9. Used object-oriented programming and singleton pattern (such as AnimateToMesh)
 
 
-preview
+## preview
 ![Image](https://github.com/Richard-Xiahou/FourSquare-production-system/blob/main/public/images/5333b9b8-af77-4ace-9e8f-14ee0f7ae611.png?raw=true)
