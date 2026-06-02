@@ -17,3 +17,6 @@ URL: http://rich.qwq2x.com/work/four-square/
 8. Using postmessage for cross-domain/cross-window message transmission
 9. Used object-oriented programming and singleton pattern (such as AnimateToMesh)
 
+
+preview
+![Image](https://github.com/Richard-Xiahou/FourSquare-production-system/blob/main/public/images/5333b9b8-af77-4ace-9e8f-14ee0f7ae611.png?raw=true)
