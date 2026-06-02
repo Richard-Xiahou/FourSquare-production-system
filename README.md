@@ -31,7 +31,7 @@ Built with:
 ## Architecture
 
 [架构图]
-
+```
 Browser
  ↓
 WebSocket
@@ -39,6 +39,7 @@ WebSocket
 MES Server
  ↓
 Industrial Equipment
+```
 
 ## Technologies
 
